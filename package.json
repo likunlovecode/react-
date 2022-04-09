@@ -16,7 +16,7 @@
     "echarts": "^4.1.0",
     "mobx": "^4.2.0",
     "mobx-react": "^5.0.0",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "qiniu-js": "^2.2.2",
     "react": ">=16.0.0",
     "react-amap": "^1.2.7",
